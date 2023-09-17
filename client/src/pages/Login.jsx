@@ -81,7 +81,7 @@ const Login = () => {
 
             {errors.email && (
               <span className="text-sm text-[#f64949fe] mt-0.5">
-                {errors.email.message}
+                {/* {errors.email.message} */}
               </span>
             )}
 
